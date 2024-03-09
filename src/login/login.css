@@ -1,0 +1,14 @@
+/* Login.css */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ajusta la altura según sea necesario */
+    margin: 0 auto;
+  }
+  
+  form {
+    width: 300px; /* Ancho del formulario */
+  }
+  
